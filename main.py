@@ -5,7 +5,7 @@ import ytthumb
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-load_dotenv()
+
 
 Bot = Client(
     "YouTube-Thumbnail-Downloader",
